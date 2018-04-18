@@ -22,8 +22,8 @@ public class FileHandler
     public String parser(String fileName, boolean checkSentence, boolean checkShouting)
     {
         File fileStream = new File(fileName);
-        //list of bad words file based of the one Google uses to filter out absuvive content from their search engine. Link to download in document.
-        File curseFile = new File("C:\\Users\\Colin-Study\\Documents\\Java Programming\\Random_File\\com\\Project\\full-list-of-bad-words-text-file_2018_03_26.txt");
+        //list of bad words file based of the one Google uses to filter out abusive content from their search engine. Link to download in document.
+        File curseFile = new File("full-list-of-bad-words-text-file_2018_03_26.txt");
         
         try 
         {
