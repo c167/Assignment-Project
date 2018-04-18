@@ -23,7 +23,7 @@ public class FileHandler
     {
         File fileStream = new File(fileName);
         //list of bad words file based of the one Google uses to filter out abusive content from their search engine. Link to download in document.
-        File curseFile = new File("full-list-of-bad-words-text-file_2018_03_26.txt");
+        File curseFile = new File("Assignment-Project/full-list-of-bad-words-text-file_2018_03_26.txt");
         
         try 
         {
