@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FileHandler
+comment0.text=\r\n\ The\ FileHandler\ class\ will\ do\ most\ of\ jobs\ required\ of\ this\ assignment.\ It\ will\ parse\ through\ the\ data\ in\ the\ text\ file\r\n\ and\ using\ a\ dictionary\ of\ swear\ words\ will\ output\ a\ message\ stating\ if\ the\ text\ file\ has\ abusive\ content\ or\ not.\r\n\ It\ will\ also\ check\ text\ segments\ for\ length\ and\ look\ for\ upper\ case\ letter\ words\ to\ try\ and\ further\ determine\ if\ theres\r\n\ any\ abusive\ content.\r\n\r\n\ Author\:\ Colin\ Doyle\r\n\ \r\n
+comment1.params=fileName\ checkSentence\ checkShouting
+comment1.target=java.lang.String\ parser(java.lang.String,\ boolean,\ boolean)
+comment2.params=fileScanner\ profanityScanner
+comment2.target=java.lang.String\ profanityCheck(java.util.Scanner,\ java.util.Scanner)
+comment3.params=fileScanner
+comment3.target=int\ sentenceCount(java.util.Scanner)
+comment4.params=fileScanner
+comment4.target=boolean\ checkForShouting(java.util.Scanner)
+comment5.params=word
+comment5.target=boolean\ isAllUpperCase(java.lang.String)
+numComments=6

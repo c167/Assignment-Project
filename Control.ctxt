@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Control
+comment0.text=\r\n\ This\ class\ mainly\ deals\ with\ the\ GUI\ elements\ and\ sending/recieving\ variables\ to\ work\ with.\r\n\r\n\ Author\:\ Colin\ Doyle\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ Declare\ these\ two\ variable\ as\ Global\ static\ variables\r\nso\ that\ way\ that\ can\ work\ with\ the\ inner\ eventHandler\ methods
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=ae
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
